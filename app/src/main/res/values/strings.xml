@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">bottomnavigation</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="homes">home</string>
+    <string name="saldo">SALDO</string>
+    <string name="nama_bahan">nama bahan</string>
+    <string name="keterangan_bahan">keterangan bahan</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="tambah_bahan">+ Tambah Bahan</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="tahu_tek_cak_ari">Tahu Tek Cak Ari</string>
+    <string name="versi_1_0">versi 1.0</string>
+    <string name="super_admin">Super Admin</string>
+    <string name="admin">Admin</string>
+    <string name="mitra">Mitra</string>
+    <string name="register">You dont have acoout? Click this</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
